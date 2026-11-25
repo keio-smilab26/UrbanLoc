@@ -4,7 +4,7 @@ This file lists the sources and licenses of all imagery shown in the UrbanLoc pa
 
 ## Summary
 
-| Figure | Content | Source | License |
+| Figure | Content | Source | License / Copyright |
 |---|---|---|---|
 | Fig. 1 | Street-level images in the "Locations" database (3 images) | Mapillary | CC BY-SA 4.0 |
 | Fig. 1 | Satellite imagery in the "Locations" database | Google Maps (Satellite view) | Imagery ©2026 Airbus, Landsat / Copernicus, Maxar Technologies, Vexcel Imaging US, Inc.; Map data ©2026 Google |
