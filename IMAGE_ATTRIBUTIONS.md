@@ -8,7 +8,7 @@ This file lists the sources and licenses of all imagery shown in the UrbanLoc pa
 |---|---|---|---|
 | Fig. 1 | Street-level images in the "Locations" database (3 images) | Mapillary | CC BY-SA 4.0 |
 | Fig. 1 | Satellite imagery in the "Locations" database | Google Maps (Satellite view) | Imagery ©2026 Airbus, Landsat / Copernicus, Maxar Technologies, Vexcel Imaging US, Inc.; Map data ©2026 Google |
-| Fig. 1 | Map of the output location (bottom) | Google Maps | Map data © Google |
+| Fig. 1 | Map of the output location (bottom) | Google Maps | Map data ©2026 Google |
 | Fig. 2 | Input street-level images X_img (3 images) | Mapillary | CC BY-SA 4.0 |
 | Fig. 3 | Street-level images in the qualitative results (21 panels) | Mapillary | CC BY-SA 4.0 |
 | Fig. 4 | Street-level images in the failure cases (14 panels) | Mapillary | CC BY-SA 4.0 |
@@ -87,4 +87,4 @@ Mapillary images have no titles, so each title gives the city and the capture co
 
 ## Map data and satellite imagery
 
-The map of the output location in Fig. 1 is from [Google Maps](https://www.google.com/maps) (Map data © Google), and the satellite imagery in the "Locations" database is from Google Maps Satellite view (Imagery ©2026 Airbus, Landsat / Copernicus, Maxar Technologies, Vexcel Imaging US, Inc.; Map data ©2026 Google). They are used in accordance with Google's [Geo Guidelines](https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
+The map of the output location in Fig. 1 is from [Google Maps](https://www.google.com/maps) (Map data ©2026 Google), and the satellite imagery in the "Locations" database is from Google Maps Satellite view (Imagery ©2026 Airbus, Landsat / Copernicus, Maxar Technologies, Vexcel Imaging US, Inc.; Map data ©2026 Google). They are used in accordance with Google's [Geo Guidelines](https://about.google/brand-resource-center/products-and-services/geo-guidelines/).
