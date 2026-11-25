@@ -1,6 +1,6 @@
 # Image Attributions
 
-This file lists the sources and licenses of all imagery shown in the UrbanLoc paper (IEEE Robotics and Automation Letters). Because the paper does not have room for per-image credits, they are collected here.
+This file lists the sources and licenses of all imagery shown in the UrbanLoc paper (IEEE Robotics and Automation Letters).
 
 ## Summary
 
